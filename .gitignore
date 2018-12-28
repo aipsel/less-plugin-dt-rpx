@@ -1,0 +1,21 @@
+# OSX
+#
+.DS_Store
+
+# Node
+#
+test
+examples
+node_modules/
+lib-cov
+*.log
+*.out
+*.pid
+*.gz
+.travis.yml
+
+# IDEs
+#
+.idea
+.vscode
+*.sublime*

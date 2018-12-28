@@ -1,0 +1,23 @@
+{
+    "name": "less-plugin-dt-rpx",
+    "version": "1.0.0",
+    "description": "rpx function to support wx-mini rpx unit",
+    "main": "index.js",
+    "author": {
+        "name": "Yeo Yang",
+        "email": "yangyy@dayukeji.xin"
+    },
+    "license": "MIT",
+    "keywords": [
+        "less",
+        "plugin",
+        "rpx",
+        "weixin",
+        "mini-program"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://git.dayukeji.xin/open/npm/less-plugin-dt-rpx.git"
+    },
+    "devDependencies": {}
+}
