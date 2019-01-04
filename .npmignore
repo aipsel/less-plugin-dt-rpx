@@ -1,3 +1,8 @@
 node_modules
 .travis.yml
 *.log
+
+# IDE
+.idea
+.vscode
+*.sublime*
