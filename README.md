@@ -19,5 +19,5 @@ becomes:
 
 ## Installation
 ```bash
-npm i git+ssh://git@git.dayukeji.xin:open/npm/less-plugin-dt-rpx.git --save-dev
+npm i less-plugin-dt-rpx --save-dev
 ```
