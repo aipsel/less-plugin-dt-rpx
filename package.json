@@ -17,7 +17,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://git.dayukeji.xin/open/npm/less-plugin-dt-rpx.git"
+        "url": "https://github.com/aipsel/less-plugin-dt-rpx"
     },
     "devDependencies": {}
 }
